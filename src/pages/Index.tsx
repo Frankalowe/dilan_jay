@@ -31,7 +31,7 @@ const Index = () => {
       <div className="max-w-md mx-auto px-4 relative z-10">
         {/* Profile Section */}
         <ProfileSection 
-          name="Dilan Jay" 
+          name="Dilan Jayasinghe" 
           tagline="Singer • Song Writer "
           imageUrl="/profile_pic.jpg"
         >
