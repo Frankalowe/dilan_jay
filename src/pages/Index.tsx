@@ -33,7 +33,7 @@ const Index = () => {
         <ProfileSection 
           name="Dilan Jay" 
           tagline="Singer • Song Writer "
-          imageUrl="src\images\profile_pic.jpg"
+          imageUrl="/profile_pic.jpg"
         >
           <SocialIconsRow />
         </ProfileSection>
@@ -66,7 +66,7 @@ const Index = () => {
           <FeaturedRelease 
             title="Dewiyanda Dunne Oya"
             // description="4 tracks - Released June 2023" //
-            imageUrl="src\images\thumb01.jpg"
+            imageUrl="/thumb01.jpg"
             href="https://www.youtube.com/watch?v=mKTEflIE6rk"
           />
         </div>
@@ -116,19 +116,19 @@ const Index = () => {
           <MusicCard
             title="Dewiyanda Dunne Oya"
             // description="Single • 2024" //
-            imageUrl="src\images\thumb01.jpg"
+            imageUrl="/thumb01.jpg"
             href="https://youtu.be/mKTEflIE6rk?si=lK035laTY_eeS61X"
           />
           <MusicCard
             title="Thaththe "
            // description=""//
-            imageUrl="src\images\thumb02.jpg"
+            imageUrl="/thumb02.jpg"
             href="https://youtu.be/PpIYJDbVZVs?si=tYy-RfT3Qm0ajCnN"
           />
           <MusicCard
             title="As Walin Kathawa"
             // description="Collaboration with DJ Pulse"//
-            imageUrl="src\images\thumb03.jpg"
+            imageUrl="/thumb03.jpg"
             href="https://youtu.be/N-f-_RB-fD0?si=4Oxlx2WAvV1qs_6q"
           />
         </div>
