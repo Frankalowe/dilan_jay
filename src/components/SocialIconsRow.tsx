@@ -5,25 +5,25 @@ const socials = [
   {
     name: "Instagram",
     icon: Instagram,
-    href: "#instagram",
+    href: "https://www.instagram.com/dilanjayasingheofficial",
     color: "bg-gradient-to-br from-purple-500 to-pink-500",
   },
-  {
-    name: "Twitter",
-    icon: Twitter,
-    href: "#twitter",
-    color: "bg-gradient-to-br from-blue-400 to-blue-600",
-  },
+  // {
+  //   name: "Twitter",
+  //   icon: Twitter,
+  //   href: "#twitter",
+  //   color: "bg-gradient-to-br from-blue-400 to-blue-600",
+  // },
   {
     name: "YouTube",
     icon: Youtube,
-    href: "#youtube",
+    href: "https://www.youtube.com/channel/UCoUMjYz0IGgfXj3xaAEf_ew",
     color: "bg-gradient-to-br from-red-500 to-red-700",
   },
   {
     name: "Facebook",
     icon: Facebook,
-    href: "#facebook",
+    href: "https://www.facebook.com/profile.php?id=100089682696095&sk=about",
     color: "bg-gradient-to-br from-blue-600 to-blue-900",
   },
 ];
