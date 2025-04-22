@@ -33,7 +33,11 @@ const Index = () => {
         <ProfileSection 
           name="Dilan Jayasinghe" 
           tagline="Singer • Song Writer "
-          imageUrl="/images/profile_pic.jpg"
+<<<<<<< HEAD
+          imageUrl="src/images/profile_pic.jpg"
+=======
+          imageUrl="/profile_pic.jpg"
+>>>>>>> parent of b845862 (paths fixed)
         >
           <SocialIconsRow />
         </ProfileSection>
@@ -66,7 +70,11 @@ const Index = () => {
           <FeaturedRelease 
             title="Dewiyanda Dunne Oya"
             // description="4 tracks - Released June 2023" //
-            imageUrl="/images/thumb01.jpg"
+<<<<<<< HEAD
+            imageUrl="src/images/thumb01.jpg"
+=======
+            imageUrl="/thumb01.jpg"
+>>>>>>> parent of b845862 (paths fixed)
             href="https://www.youtube.com/watch?v=mKTEflIE6rk"
           />
         </div>
@@ -116,19 +124,31 @@ const Index = () => {
           <MusicCard
             title="Dewiyanda Dunne Oya"
             // description="Single • 2024" //
-            imageUrl="/images/thumb01.jpg"
+<<<<<<< HEAD
+            imageUrl="src/images/thumb01.jpg"
+=======
+            imageUrl="/thumb01.jpg"
+>>>>>>> parent of b845862 (paths fixed)
             href="https://youtu.be/mKTEflIE6rk?si=lK035laTY_eeS61X"
           />
           <MusicCard
             title="Thaththe "
            // description=""//
-            imageUrl="/images/thumb02.jpg"
+<<<<<<< HEAD
+            imageUrl="src/images/thumb02.jpg"
+=======
+            imageUrl="/thumb02.jpg"
+>>>>>>> parent of b845862 (paths fixed)
             href="https://youtu.be/PpIYJDbVZVs?si=tYy-RfT3Qm0ajCnN"
           />
           <MusicCard
             title="As Walin Kathawa"
             // description="Collaboration with DJ Pulse"//
-            imageUrl="/images/thumb03.jpg"
+<<<<<<< HEAD
+            imageUrl="src/images/thumb03.jpg"
+=======
+            imageUrl="/thumb03.jpg"
+>>>>>>> parent of b845862 (paths fixed)
             href="https://youtu.be/N-f-_RB-fD0?si=4Oxlx2WAvV1qs_6q"
           />
         </div>
@@ -159,7 +179,7 @@ const Index = () => {
 
         {/* Footer */}
         <footer className="text-center mt-10 text-xs text-gray-500">
-          <p>© 2025 DILAN JAY · All Rights Reserved</p>
+          <p>© 2025 DILAN JAYASINGHE · All Rights Reserved</p>
         </footer>
       </div>
     </div>
